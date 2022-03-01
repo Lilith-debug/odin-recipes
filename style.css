@@ -1,11 +1,11 @@
 body {
-    background-color: beige;
+    background-color:floralwhite;
+    color:rgb(126, 71, 71);
+    font-family:"Georgia",'Times New Roman', Times, serif;
 }
 
-h1,
-p {
-    font-family: 'Courier New', Courier, monospace;
-    color: brown;
+h1 {
+    font-style: oblique;
 }
 
 p{
