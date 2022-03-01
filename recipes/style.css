@@ -1,0 +1,16 @@
+body {
+    background-color:floralwhite;
+    color:rgb(126, 71, 71);
+    font-family:"Georgia",'Times New Roman', Times, serif;
+}
+
+h1,
+h2 {
+    font-style: oblique;
+}
+
+p,
+ul,
+ol {
+    font-size: 17px;
+}
